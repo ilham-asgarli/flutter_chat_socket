@@ -1,1 +1,1 @@
-# flutter_socket_chat
+# flutter_chat_socket
